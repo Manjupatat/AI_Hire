@@ -4,7 +4,7 @@ import streamlit as st
 st.title("AI Interview Bot")
 
 # Retrieve API key
-api_key = st.secrets["general"]["GOOGLE_API_KEY"]
+api_key = st.secrets["general"]["AIzaSyBsNUps9NoF8011ZilZm6cMgq4igSbgHEY"]
 genai.configure(api_key=api_key)
 
 # Initialize session state variables
