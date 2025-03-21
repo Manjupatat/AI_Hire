@@ -1,11 +1,12 @@
 
+
 # AI Interview Bot
 
 ## 🚀 Overview
 The **AI Interview Bot** is a smart chatbot that conducts technical interviews based on a user's resume. It generates customized questions from the uploaded resume and evaluates responses in a WhatsApp-style chat format using **Streamlit** and **Google Gemini AI**.
 
 ## ✨ Features
-✅ **ChatGPT-like UI** (WhatsApp-style chat interaction)  
+✅ **ChatGPT-like UI** (chat interaction)  
 ✅ **AI-generated Interview Questions** (Tailored to user's skills)  
 ✅ **Streamlit Web Interface** (Interactive and user-friendly)  
 
@@ -48,17 +49,16 @@ streamlit run main.py
 
 🎥 Live Demo
 
-Check out the live demo: [AI Interview Bot Demo](https://hire-bot-oztt.onrender.com/)
+Check out the live demo: [AI Interview Bot Demo](https://aihire.streamlit.app/)
 
 ---
 
 ## 📄 How It Works
-1️⃣ **User enters name** 👤  
-2️⃣ **Uploads resume (PDF/DOCX)** 📄  
-3️⃣ **AI extracts skills & generates questions** 🤖  
-4️⃣ **User answers in a chat format** 💬  
-5️⃣ **AI evaluates and provides feedback** ✅  
-6️⃣ **After all questions, AI thanks the user** 🎉  
+1️⃣ **Enter your name** when prompted.  
+2️⃣ **Provide your technical skills** (e.g., Python, Django, React).  
+3️⃣ **Answer the AI-generated questions** in the chat interface.  
+4️⃣ **Receive AI feedback** on your responses.  
+5️⃣ **After all questions, AI thanks the user** 🎉  
 
 ---
 
@@ -66,7 +66,6 @@ Check out the live demo: [AI Interview Bot Demo](https://hire-bot-oztt.onrender.
 - **Python** 🐍
 - **Streamlit** 🎨 (Frontend UI)
 - **Google Gemini AI** 🧠 (AI-powered interview)
-- **PyPDF2 & python-docx** 📄 (Resume processing)
 
 ---
 
@@ -83,9 +82,9 @@ Feel free to submit PRs, open issues, and contribute to making this bot even bet
 
 ---
 
-## 📞 Contact
+## 📞 Contact +91 - 8971812177
 For any queries or suggestions, reach out to:  
 📧 **Email**: manjupatat80@gmail.com  
 🐙 **GitHub**: [Manjunath L Patat](https://github.com/Manjupatat)
 
->>>>>>> 30ee8ae (Initial commit)
+
